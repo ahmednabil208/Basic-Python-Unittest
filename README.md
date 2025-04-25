@@ -2,7 +2,7 @@
 
 ## How to Run Tests
 ```bash
-Run the unit tests using the following command:
+python3 -m unittest test_calculator.py 
 ```
 ## Expected Output
 ```bash
